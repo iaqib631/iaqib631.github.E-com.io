@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
-  base: "/E-com.io/",   // 👈 Add this line (repo name, case-sensitive)
+  base: "/iaqib631.github.E-com.io/",   // 👈 Add this line (repo name, case-sensitive)
 })
