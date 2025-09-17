@@ -1,10 +1,10 @@
 export const Brands = () => {
   const brandsList = [
-    { id: 1, logo: "/images/Group.png" },
-    { id: 2, logo: "/images/zara-logo.png" },
-    { id: 3, logo: "/images/gucci-logo.png" },
-    { id: 4, logo: "/images/prada-logo.png" },
-    { id: 5, logo: "/images/calvin.png" },
+    { id: 1, logo: "images/Group.png" },
+    { id: 2, logo: "images/zara-logo.png" },
+    { id: 3, logo: "images/gucci-logo.png" },
+    { id: 4, logo: "images/prada-logo.png" },
+    { id: 5, logo: "images/calvin.png" },
   ];
 
   return (
